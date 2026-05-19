@@ -50,8 +50,26 @@ Export or recover files if required for the investigation.
 7. Explore file/folder structure in the navigation pane.
 8.Export selected files for further examination.
 
-## OUTPUT:
+## Output:
+
 File and Folder Configuration Analysis Results
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b7908c4-dc10-4d9a-9e3e-f948c47b95e1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ead25f4-8dbf-4985-93e3-753a5a88aa3e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/438bf155-18f2-4553-8f6a-0c8bdad50471" />
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4e8663b-4904-423f-8d89-dccd0a086e0b" />
+
+
+
+
+
+
+
+
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
